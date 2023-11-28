@@ -1,0 +1,18 @@
+//Documento de Usuario
+{
+    "_id": ObjectId("user1"),
+    "nome": "João",
+    "idade": 25,
+    "postagens": [
+      ObjectId("post1"),
+      ObjectId("post2")
+    ]
+}
+
+//Documento de Postagem
+{
+    "_id": ObjectId("post1"),
+    "titulo": "Primeira postagem",
+    "conteudo": "Conteúdo da primeira postagem",
+    "autor": ObjectId("user1")
+}

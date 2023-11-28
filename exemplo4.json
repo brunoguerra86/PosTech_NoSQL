@@ -1,0 +1,5 @@
+{
+    "_id": ObjectId("60d2fe49f2aebf34383e56a4"),
+    "nome": "Ana",
+    "hobbies": ["leitura", "corrida", "cozinhar"]
+}

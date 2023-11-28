@@ -1,0 +1,8 @@
+{
+    "_id": ObjectId("60d2fe49f2aebf34383e56a3"),
+    "titulo": "Livro",
+    "autor": "John Doerr",
+    "ano": 2021,
+    "preco": 29.99,
+    "disponivel": true
+}

@@ -1,0 +1,9 @@
+{
+    "_id": ObjectId("60d2fe49f2aebf34383e56a2"),
+    "nome": "Maria",
+    "endereco": {
+                    "rua": "Rua A",
+                    "cidade": "São Paulo",
+                    "estado": "SP"
+                }
+}
